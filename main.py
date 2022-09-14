@@ -14,10 +14,10 @@ def main():
      |_   _(_) |_\ \ / (_)_____ __ _____
        | | | | / /\ V /| / -_) V  V (_-<
        |_| |_|_\_\ \_/ |_\___|\_/\_//__/
-          breached.to/User-INSTINCT
+          Ahmad Chen Wang Xuesi
     """
     )
-    print(Fore.LIGHTYELLOW_EX + "Example: https://www.tiktok.com/@runsonlinux/video/6902869957017734406")
+    print(Fore.LIGHTYELLOW_EX + "Contoh: https://www.tiktok.com/@anonsecteaminc/video/6993753284267740443")
     url_video = input("Enter URL Video: ")
 
     inject.get_session_captcha()
@@ -25,7 +25,7 @@ def main():
 
     if inject.post_solve_captcha(captcha_result=inject.captcha_solver()):
 
-        print("\n[ " + str(datetime.datetime.now()) + " ] " + Fore.LIGHTGREEN_EX + "Success Solve Captcha" + "\n")
+        print("\n[ " + str(datetime.datetime.now()) + " ] " + Fore.LIGHTGREEN_EX + "Berhasil Bypass Captcha" + "\n")
 
         while True:
 
@@ -34,16 +34,16 @@ def main():
             )
             if inject_views:
 
-                if "Please try again later" in inject_views:
+                if "Silakan coba lagi nanti" in inject_views:
                     print("[ " + str(datetime.datetime.now()) + " ] " + Fore.LIGHTRED_EX + inject_views)
                     exit()
 
-                elif "Successfully views sent." in inject_views:
+                elif "Views berhasil dikirim." in inject_views:
                     print("[ " + str(
                         datetime.datetime.now()) + " ] " + Fore.LIGHTGREEN_EX + inject_views + " to " + Fore.LIGHTYELLOW_EX + "" + url_video,
                           end="\n\n")
 
-                elif "Session Expired. Please Re Login!" in inject_views:
+                elif "Sesi berakhir. Silahkan Login Ulang!" in inject_views:
                     print("[ " + str(datetime.datetime.now()) + " ] " + Fore.LIGHTRED_EX + inject_views)
                     exit()
 
@@ -54,8 +54,8 @@ def main():
 
                 else:
                     for i in range(int(inject_views), 0, -1):
-                        print("[ " + str(datetime.datetime.now()) + " ] " + Fore.LIGHTYELLOW_EX + "Please wait " + str(
-                            i) + " seconds to send views again.", end="\r")
+                        print("[ " + str(datetime.datetime.now()) + " ] " + Fore.LIGHTYELLOW_EX + "Mohon Tunggu " + str(
+                            i) + " detik untuk mengirim tampilan lagi.", end="\r")
                         time.sleep(1)
 
                 time.sleep(random.randint(1, 5))
@@ -64,7 +64,7 @@ def main():
                 pass
 
     else:
-        print(Fore.RED + "Failed to solve captcha.")
+        print(Fore.RED + "Gagal Bypass captcha.")
 
 
 if __name__ == '__main__':

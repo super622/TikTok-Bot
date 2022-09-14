@@ -5,6 +5,7 @@
 | Nama             | Version              |
 | ----------------- | ------------------------- |
 | Python | 3xx |
+| Termux | Terbaru |
 
 ## Vitur 😐
 
@@ -13,6 +14,9 @@
 | Auto Bypass Captcha | ✅ |
 | No Selenium / puppeteer | ✅ |
 
+## Kekurangan 😅
+
+- Delay Nya Lama 😐 Biar Aman 🗿
 
 ## Run Android
 

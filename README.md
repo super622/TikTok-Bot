@@ -34,6 +34,14 @@ Go to the project directory
 
 Install dependencies modules
 
+## Modules Termux
+
+```bash
+  pip install -r requirements.txt
+```
+
+## Modules Vps/RDP
+
 ```bash
   pip3 install -r requirements.txt
 ```

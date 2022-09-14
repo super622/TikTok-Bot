@@ -1,7 +1,12 @@
-# TikZef - Automation
-Automation does not require Selenium or any other browser to be interface with Zefoy Web, it does so directly using a Request API. Not running Selenium or Chromimum saves you ram :D
+# Tiktok-ViewsBOT
 
-## Feature
+## Yang Di Butuhkan
+
+| Nama             | Version              |
+| ----------------- | ------------------------- |
+| Python | 3xx |
+
+## Vitur 😐
 
 | Name             | Status              |
 | ----------------- | ------------------------- |
@@ -9,21 +14,21 @@ Automation does not require Selenium or any other browser to be interface with Z
 | No Selenium / puppeteer | ✅ |
 
 
-## Run Locally
+## Run Android
 
-Clone the project
+Clone the project 🚀
 
 ```bash
-  git clone https://github.com/instinctrepo/TikZef-Automation
+  git clone https://github.com/tahaluindo/Tiktok-ViewsBOT
 ```
 
 Go to the project directory
 
 ```bash
-  cd TikZef-Automation
+  cd Tiktok-ViewsBOT
 ```
 
-Install dependencies
+Install dependencies modules
 
 ```bash
   pip3 install -r requirements.txt
@@ -35,11 +40,3 @@ Start the server
   python3 main.py
 ```
 
-
-## Screenshots
-
-##### Running Bot
-![image](https://i.ibb.co/1RNC9Jn/tikzef.png)
-
-##### Result 
-![image](https://i.ibb.co/5sL9NfV/proof.png)

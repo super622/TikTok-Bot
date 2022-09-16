@@ -1,0 +1,31 @@
+{
+  "name": "tiktoks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahaluindo/Tiktok-ViewsBOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahaluindo/Tiktok-ViewsBOT/issues"
+  },
+  "homepage": "https://github.com/tahaluindo/Tiktok-ViewsBOT#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^3.2.10",
+    "node-tesseract-ocr": "^2.2.1",
+    "puppeteer": "^17.1.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "qs": "^6.11.0",
+    "random-useragent": "^0.5.0",
+    "url-parse": "^1.5.10"
+  }
+}

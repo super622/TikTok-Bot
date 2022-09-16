@@ -5,6 +5,7 @@
 | Nama             | Version              |
 | ----------------- | ------------------------- |
 | Python | 3xx |
+| NodeJs | 16xx |
 | Termux | Terbaru |
 
 ## Vitur 😐
@@ -23,6 +24,10 @@
 Clone the project 🚀
 
 ```bash
+  apt install nodejs
+```
+
+```bash
   git clone https://github.com/tahaluindo/Tiktok-ViewsBOT
 ```
 
@@ -30,6 +35,10 @@ Go to the project directory
 
 ```bash
   cd Tiktok-ViewsBOT
+```
+
+```bash
+  npm install
 ```
 
 Install dependencies modules
@@ -52,3 +61,8 @@ Start the server
   python3 main.py
 ```
 
+Start Nodejs
+
+```bash
+  npm start
+```

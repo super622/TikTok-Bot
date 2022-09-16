@@ -8,6 +8,14 @@
 | NodeJs | 16xx |
 | Termux | Terbaru |
 
+## Nodejs Keterangan
+
+- Perlu Di Perhatikan Kode Ini
+
+https://github.com/tahaluindo/Tiktok-ViewsBOT/blob/37c00f1b8a7b5183451ae7f8caae7525e4354be8/index.js#L9
+
+Ganti Link Tiktok Video Mu
+
 ## Vitur 😐
 
 | Name             | Status              |

@@ -14,6 +14,16 @@
 
 https://github.com/tahaluindo/Tiktok-ViewsBOT/blob/37c00f1b8a7b5183451ae7f8caae7525e4354be8/index.js#L9
 
+## Python 
+
+- Bagian v3.py Yang Di Rubah Adalah ID Tiktok Views Nya
+
+- Contoh : 6993753284267740443
+
+- Link Aslinya Kek Gini https://github.com/tahaluindo/Tiktok-ViewsBOT/blob/37c00f1b8a7b5183451ae7f8caae7525e4354be8/index.js#L9
+
+- Salin Aja Paling Belakang Berupa Angka ''6993753284267740443''
+
 Ganti Link Tiktok Video Mu
 
 ## Vitur 😐

@@ -1,3 +1,6 @@
+base64
+pystyle
+threading
 selenium
 psutil
 pillow

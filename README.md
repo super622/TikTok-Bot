@@ -1,6 +1,34 @@
 # Tiktok-ViewsBOT
 
 
+<br/>
+<div align="center">
+  <a href="https://github.com/tahaluindo">
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
+  </a>
+  
+  <h2 align="center">TikTok Views Bot</h3>
+
+  <p align="center">
+    TikTok view using zefoy.com for <b>followers, views, likes, shares and more</b>
+    <br />
+    <br />    
+  </p>
+</div>
+  
+---------------------------------------
+
+### Features
+* Follow Bot
+* View Bot
+* Like Bot
+* Share Bot
+* Favorite Video Bot
+* Comment Likes Bot
+
+---------------------------------------
+
+
 <!--
 <p align="center">
 400 followers / 500 stars = leaked unpatched viewbot 1k/s

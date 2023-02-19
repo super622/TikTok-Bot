@@ -1,5 +1,6 @@
 base64
 pystyle
+inquirer
 threading
 selenium
 psutil

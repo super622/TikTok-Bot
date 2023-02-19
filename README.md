@@ -116,7 +116,7 @@ Install dependencies modules
 Start the server
 
 ```bash
-  python3 main.py
+  python3 root.py
 ```
 
 Start Nodejs

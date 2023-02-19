@@ -1,19 +1,23 @@
 # Tiktok-ViewsBOT
 
-
 <br/>
 <div align="center">
   <a href="https://github.com/tahaluindo">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
   </a>
-  
-  <h2 align="center">TikTok Views Bot</h3>
-
-  <p align="center">
+<p align="center">
     TikTok view using zefoy.com for <b>followers, views, likes, shares and more</b>
     <br />
     <br />    
   </p>
+<br/>
+<div align="center">
+  <a href="https://github.com/tahaluindo">
+    <img src="https://raw.githubusercontent.com/tahaluindo/Tiktok-ViewsBOT/main/src/Screenshot_2023-02-20-01-58-15-328-edit_com.termux.jpg" alt="Logo" width="200" height="200">
+  </a>
+  
+  <h2 align="center">TikTok Views Bot</h3>
+
 </div>
   
 ---------------------------------------

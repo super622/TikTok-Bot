@@ -22,6 +22,10 @@
   
 ---------------------------------------
 
+### Di Update Pada
+
+* 28 Febuari 2023
+
 ### Features
 * Follow Bot
 * View Bot
@@ -121,6 +125,14 @@ Start the server
 
 ```bash
   python3 root.py
+```
+
+Updatean Terbaru
+
+### Via Windows Shell
+
+```bash
+   python3 saim.py
 ```
 
 Start Nodejs

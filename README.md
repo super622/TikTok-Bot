@@ -56,13 +56,20 @@ https://user-images.githubusercontent.com/98614666/182040527-2c72dd31-1c4a-4e49-
 | NodeJs | 16xx |
 | Termux | Terbaru |
 
+## Download Alat Tempur
+
+- Untuk Android Install Dulu [Termux](https://f-droid.org/repo/com.termux_118.apk)
+- Untuk PC/RDP/VPS Install Dulu [Nodejs](https://nodejs.org/dist/v18.14.2/node-v18.14.2-x86.msi)
+- Untuk Clone Via PC/RDP/VPS Install [GIT](https://git-scm.com/download/win)
+- Untuk Android Install ```apt-get install git```
+
 ## Nodejs Keterangan
 
 - Perlu Di Perhatikan Kode Ini
 
 https://github.com/tahaluindo/Tiktok-ViewsBOT/blob/37c00f1b8a7b5183451ae7f8caae7525e4354be8/index.js#L9
 
-## Python 
+## Tutorial Code Python 
 
 - Bagian v3.py Yang Di Rubah Adalah ID Tiktok Views Nya
 
@@ -72,7 +79,8 @@ https://github.com/tahaluindo/Tiktok-ViewsBOT/blob/37c00f1b8a7b5183451ae7f8caae7
 
 - Salin Aja Paling Belakang Berupa Angka ''6993753284267740443''
 
-Ganti Link Tiktok Video Mu
+- Terbaru Dan Baru Di Update Ketik ```git pull && python3 saim.py``` untuk file url silakan cari nama file ```config.json``` kalian edit link tiktok video kalian masing²
+
 
 ## Vitur 😐
 
@@ -80,6 +88,8 @@ Ganti Link Tiktok Video Mu
 | ----------------- | ------------------------- |
 | Auto Bypass Captcha | ✅ |
 | No Selenium / puppeteer | ✅ |
+| Fast | ✅ |
+
 
 ## Kekurangan 😅
 
